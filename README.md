@@ -1,0 +1,1 @@
+В класс Calculator (папка \src\seminars\first\Calculator) добавлена функция calculatingDiscount для вычисления скидок. В класс CalculatorTest добавлено два теста  testCalculateDiscountWithValidArguments. Остальные файлы - от семинара, не менялись.
